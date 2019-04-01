@@ -14,4 +14,7 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require wrong_place_wrong_time
+
+// below are things I added
 //= require alert_maker.js
+//= require main.js
