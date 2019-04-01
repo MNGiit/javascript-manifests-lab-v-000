@@ -16,5 +16,10 @@
 //= require wrong_place_wrong_time
 
 // below are things I added
+// application layout
 //= require alert_maker.js
 //= require main.js
+// admin layout
+//= require hello_word.js
+//= require doesn_nothing.js
+
